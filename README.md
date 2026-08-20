@@ -8,12 +8,23 @@ spot for clean architecture and quality over shortcuts.
 
 ## Tech stack
 
-| Area     | Technologies                        |
-|----------|-------------------------------------|
-| Backend  | Java, Spring Boot                   |
-| Frontend | TypeScript, React                   |
-| Mobile   | Flutter     |
-| Tools    | _(Git, Docker, PostgreSQL, Linux)_    |
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring" alt="Backend" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,react,html,css" alt="Frontend" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,docker,postgres,linux" alt="Tools" />
+
+<!-- Add or remove icons by editing the i= list — full icon gallery: https://skillicons.dev -->
 
 ## Currently learning
 
