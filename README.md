@@ -10,12 +10,19 @@ spot for clean architecture and quality over shortcuts.
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,ts,react,html,css,astro" alt="Full-Stack" />
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile" />
+| <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /> | <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" /> | <img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot" /> | <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /> | <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /> | <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /> | <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /> | <img src="https://skillicons.dev/icons?i=astro" width="48" alt="Astro" /> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Python | Java | Spring Boot | TypeScript | React | HTML | CSS | Astro |
+
+| <img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter" /> | <img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart" /> |
+| :-: | :-: |
+| Flutter | Dart |
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,docker,postgres,linux" alt="Tools" />
+| <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /> | <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /> | <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /> | <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" /> |
+| :-: | :-: | :-: | :-: |
+| Git | Docker | PostgreSQL | Linux |
 
 <!-- Add or remove icons by editing the i= list — full icon gallery: https://skillicons.dev -->
 
