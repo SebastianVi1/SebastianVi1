@@ -8,16 +8,9 @@ spot for clean architecture and quality over shortcuts.
 
 ## Tech stack
 
-**Backend**
+**Stack**
 
-<img src="https://skillicons.dev/icons?i=java,spring" alt="Backend" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=ts,react,html,css" alt="Frontend" />
-
-**Mobile**
-
+<img src="https://skillicons.dev/icons?i=python,java,spring,ts,react,html,css,astro" alt="Full-Stack" />
 <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile" />
 
 **Tools**
@@ -37,8 +30,8 @@ spot for clean architecture and quality over shortcuts.
 
 ## Get in touch
 
-- **LinkedIn:** [sebastinvil](https://www.linkedin.com/in/sebastianvil)
-- **Email:** [sebaistanvh86@gmail.com](mailto:sebastianvh86@gmail.com)
+- **LinkedIn:** [Sebastinvil](https://www.linkedin.com/in/sebastianvil)
+- **Email:** [sebstianvh86@gmail.com](mailto:sebastianvh86@gmail.com)
 
 ---
 
