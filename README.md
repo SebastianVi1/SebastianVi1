@@ -37,8 +37,8 @@
 
 ## Featured Projects
 
-- **[Calm Mind](https://github.com/SebastianVi1/calm-mind)** — One line on what it does and why it matters.
-- **[MagnetPlay](https://github.com/SebastianVi1/magnetPlay-deployment)** — One line on what it does and why it matters.
+- **[Calm Mind](https://github.com/SebastianVi1/calm-mind)** — Mental wellness mobile app for detecting anxiety and depression.
+- **[MagnetPlay](https://github.com/SebastianVi1/magnetPlay-deployment)** — Personal streaming plataform.
 
 ## Get in Touch
 
